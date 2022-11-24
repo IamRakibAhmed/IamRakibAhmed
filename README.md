@@ -1,4 +1,6 @@
-<h2> Hi, I'm Rakib Ahmed <img src="https://raw.githubusercontent.com/IamRakibAhmed/IamRakibAhmed/master/pikahello.gif" width="40px" height="40px"></h2>
+<h1> Hi, I'm Rakib Ahmed <img src="https://raw.githubusercontent.com/IamRakibAhmed/IamRakibAhmed/master/pikahello.gif" width="50px" height="50px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=300&color=FFBE16&width=435&lines=Software+Engineer;Problem+Solver;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=IamRakibAhmed)
 
