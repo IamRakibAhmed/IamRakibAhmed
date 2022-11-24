@@ -41,7 +41,7 @@ I enjoy problem-solving, researching, developing new technologies, and designing
 
 🛠️ **Stuffs I use (Languages,Tools and Others):**
 <br/><br/>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black)
 ![C#](https://img.shields.io/badge/-Csharp-black?style=for-the-badge&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
 ![Spring Boot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=Springboot)
