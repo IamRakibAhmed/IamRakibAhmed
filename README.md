@@ -91,8 +91,8 @@ I enjoy problem-solving, researching, developing new technologies, and designing
 <!--START_SECTION:waka-->
 
 ```text
-.NET   6 hrs 23 mins   ███████████████████████░░   92.17 %
-Python         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+.NET         6 hrs 23 mins   ███████████████████████░░   92.17 %
+Python       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
