@@ -30,8 +30,9 @@ I enjoy problem-solving, researching, developing new technologies, and designing
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 👨🏽‍💻 I’m currently working on C# and Windows Application.
-- 🌱 I’m currently learning Accessibility APIs; 
+- 👨🏽‍💻 I’m currently working on C# and Windows Application;
+- 🌱 I’m currently learning Accessibility APIs;
+- 👨‍🔬 I'm currently doing research on Computer Vision;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rakibofficial@gmail.com;
 
@@ -40,30 +41,39 @@ I enjoy problem-solving, researching, developing new technologies, and designing
 
 🛠️ **Stuffs I use (Languages,Tools and Others):**
 <br/><br/>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-Csharp-black?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
+![Spring Boot](https://img.shields.io/badge/-Springboot-black?style=for-the-badge&logo=Springboot)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
-![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
-![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=5df58b)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Vue](https://img.shields.io/badge/-Vuejs-black?style=for-the-badge&logo=vue)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=for-the-badge&logo=nestjs&logoColor=1572B6)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Jenkins&logoColor=D24939)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
-![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-black?style=for-the-badge&logo=elasticsearch)
 ![GraphQl](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql&logoColor=2496ED)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 📈 **My GitHub Stats:**
 
