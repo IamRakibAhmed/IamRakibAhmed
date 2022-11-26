@@ -5,22 +5,22 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=IamRakibAhmed)
 
 <a href="https://www.linkedin.com/in/iamrakibahmed/">
-  <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/iamrakibahmed">
-  <img align="left" alt="Rakib's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Rakib's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/iamrakibahmed/">
-  <img align="left" alt="Rakib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rakib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/IamRakibAhmed/">
-  <img align="left" alt="Rakib's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rakib's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/facebook.svg" />
 </a>
 <a href="https://dev.to/rakibahmed/">
-  <img align="left" alt="Rakib's Dev.to" wialt="Rakib's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img align="left" alt="Rakib's Dev.to" wialt="Rakib's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/devdotto.svg" />
 </a>
 <a href="https://www.researchgate.net/profile/Rakib-Ahmed-7">
-  <img align="left" alt="Rakib's Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+  <img align="left" alt="Rakib's Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/researchgate.svg" />
 </a>
 <br/>
 <br/>
