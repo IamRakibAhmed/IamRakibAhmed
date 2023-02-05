@@ -22,6 +22,9 @@
 <a href="https://www.researchgate.net/profile/Rakib-Ahmed-7">
   <img align="left" alt="Rakib's Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/researchgate.svg" />
 </a>
+<a href="https://scholar.google.com/citations?hl=en&user=Cw7M4LwAAAAJ">
+  <img align="left" alt="Rakib's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/googlescholar.svg" />
+</a>
 <br/>
 <br/>
 
