@@ -28,15 +28,15 @@
 <br/>
 <br/>
 
-Hi, I'm Rakib Ahmed, a Software Engineer 🚀 from Dhaka, Bangladesh, currently, I'm working with <a href="http://www.apurba.com.bd/">Apurba Technologies Ltd</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am passionate about pursuing skills related to the field of Computer Science and Engineering.
+Hi, I'm Rakib Ahmed, a Software Engineer 🚀 from Dhaka, Bangladesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am passionate about pursuing skills related to the field of Computer Science and Engineering.
 I enjoy problem-solving, researching, developing new technologies, and designing software applications for different platforms. Machine Learning is something that I love to work with. I enjoy meeting people and working with them in a team environment. I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ... <br/><br/>
 
-- 👨🏽‍💻 I’m currently working on C# and Windows Application;
-- 🌱 I’m currently learning Accessibility APIs;
+- 👨🏽‍💻 I’m currently working on Spring Boot and Microservices;
+- 🌱 I’m currently engaging with Fin-tech Solutions and Automation QA;
 - 👨‍🔬 I'm currently doing research on Computer Vision and Natural Language Processing;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rakibofficial@gmail.com;
@@ -96,7 +96,7 @@ I enjoy problem-solving, researching, developing new technologies, and designing
 <!--START_SECTION:waka-->
 
 ```text
-.NET         6 hrs 23 mins   ███████████████████████░░   92.17 %
+Java         6 hrs 23 mins   ███████████████████████░░   92.17 %
 Python       24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
